@@ -48,4 +48,4 @@ The main objective of this project is to create an easy-to-use rental management
 
 ## 👨‍💻 Author
 
-Created by * SURIYA J*
+Created by * SURIYA J *
